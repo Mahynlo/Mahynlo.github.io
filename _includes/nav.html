@@ -20,15 +20,18 @@
               {%- for childlink in link[1] -%}
                 {%- for linkparts in childlink %}
                   <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                  <a>Pruebita jaja</a>
                 {%- endfor -%}
               {%- endfor %}
             </div>
           </li>
-        {% else %}
+        {% else %} 
           <li class="nav-item">
             <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+
           </li>
         {%- endif -%}
+
       {%- endfor -%}
       {% if site.post_search %}
         <li class="nav-item">
