@@ -4,34 +4,27 @@ title: Mis Proyectos
 subtitle: Mis proyectos
 ---
 
-¡Hola! Soy Malcom Navarro, y estos son mis proyectos.
-
-### Mi Historia
-
-Aquí puedes escribir una breve historia sobre ti, tus intereses y cómo comenzaste en el desarrollo de software.
-
 ### Proyectos Destacados
 
-#### 1. [Nombre del Proyecto 1](#)
-- **Descripción**: Explicación breve del proyecto, su propósito y tecnologías utilizadas.
-- **Tecnologías**: PySide, Python, SQL, etc.
-- **Enlace**: [GitHub](#) | [Demo](#)
+#### 1. [Torres de Hanoi](#)
+- **Descripción**: Juego de las Torres de Hanoi
+- **Tecnologías**: C, C++.
+- **Enlace**: [GitHub](#https://github.com/Mahynlo/Torres-De-Hanoi)
 
-#### 2. [Nombre del Proyecto 2](#)
-- **Descripción**: Descripción de un segundo proyecto, enfoque y resultados alcanzados.
+#### 2. [Proyecto Bases de Datos](#)
+- **Descripción**: Herramienta de apoyo a la gestión de artículos dentro de los procesos de revisión sistemática de literatura
 - **Tecnologías**: React, Node.js, Express, etc.
-- **Enlace**: [GitHub](#) | [Demo](#)
+- **Enlace**: [GitHub](#https://github.com/Mahynlo/proyectoBDD)
 
-#### 3. [Nombre del Proyecto 3](#)
-- **Descripción**: Resumen del tercer proyecto, qué aprendiste o resolviste con él.
+#### 3. [Princiales Temas de Interes Nacional](#)
+- **Descripción**: Proyecto final de la clase de PLN, se usa 'Topic modeling' sobre las noticias nacionales para obtener los temas de interes Nacional.
 - **Tecnologías**: Android, React Native, Firebase, etc.
-- **Enlace**: [GitHub](#) | [Demo](#)
+- **Enlace**: [GitHub](#https://github.com/Mahynlo/principales_temas_de_interes_nacional)
 
 ### Más Proyectos
 
-- [Proyecto 4](#)
-- [Proyecto 5](#)
-- [Proyecto 6](#)
+- [Amlobot_2000](#https://github.com/Mahynlo/Amlobot_2000)
+- [Formulario](#https://github.com/Mahynlo/Formulario)
 
 ### Contáctame
 
