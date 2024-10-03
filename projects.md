@@ -13,12 +13,12 @@ subtitle: Mis proyectos
 
 #### 2. [Proyecto Bases de Datos](https://github.com/Mahynlo/proyectoBDD)
 - **Descripción**: Herramienta de apoyo a la gestión de artículos dentro de los procesos de revisión sistemática de literatura
-- **Tecnologías**: React, Node.js, Express, etc.
+- **Tecnologías**: JavaScript,HTML y css.
 - **Enlace**: [GitHub](https://github.com/Mahynlo/proyectoBDD)
 
 #### 3. [Princiales Temas de Interes Nacional](https://github.com/Mahynlo/principales_temas_de_interes_nacional)
 - **Descripción**: Proyecto final de la clase de PLN, se usa 'Topic modeling' sobre las noticias nacionales para obtener los temas de interes Nacional.
-- **Tecnologías**: Android, React Native, Firebase, etc.
+- **Tecnologías**: Jupyter Notebook,python.
 - **Enlace**: [GitHub](https://github.com/Mahynlo/principales_temas_de_interes_nacional)
 
 ### Más Proyectos
