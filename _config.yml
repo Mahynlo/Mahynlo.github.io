@@ -20,12 +20,14 @@ author: Malcom Navarro
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Projects: "projects"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Proyectos: "projects"
+  Hcerca de mi: "aboutme"
+  Contacto: "contact"
+
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -51,10 +53,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "malcom_navarro12@hotmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: daattali
+  github: Mahynlo
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
@@ -101,7 +103,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Home"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
