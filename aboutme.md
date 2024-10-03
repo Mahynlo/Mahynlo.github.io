@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mí
+subtitle: Por qué querrías conocerme
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+¡Hola! Soy Malcom Navarro, tengo un gran sentido del humor y una pasión por conectar con las personas.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Soy curioso por naturaleza, siempre estoy aprendiendo algo nuevo para mantener la vida emocionante.
+- La familia es muy importante para mí, siempre estoy ahí para apoyar a mis seres queridos.
 
-What else do you need?
+Ay mas de mi pero no quise escribir mas para conservar el misterio.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Podría contarte toda la historia de "dónde nací y cómo crecí", pero prefiero que vivas mi historia en tiempo real: a través de una conversación, una risa o una nueva aventura. Solo te diré que he vivido muchas experiencias que me han hecho ser quien soy hoy. Pero si tienes curiosidad, pregúntame lo que quieras. Soy como un libro abierto (con algunos capítulos emocionantes).
