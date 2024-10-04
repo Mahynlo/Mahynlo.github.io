@@ -1,71 +1,79 @@
-/* ==========================================================================
- Forms
- ========================================================================== */
+/* ========================================================================== 
+Forms
+========================================================================== */
 .staticman-comments form {
-  margin: 0 0 5px 0;
-  padding: 1em;
-  background-color: #f2f3f3;
+  margin: 1.5em 0;
+  padding: 2em;
+  background-color: #ffffff; /* Cambiado a blanco para mayor contraste */
+  border: 1px solid #e0e0e0; /* Añadido borde para definir el área del formulario */
+  border-radius: 8px; /* Bordes redondeados */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil para profundidad */
 }
+
 .staticman-comments form p {
-  margin-bottom: 2.5px;
+  margin-bottom: 1em; /* Aumentado el margen inferior para más espacio */
 }
-.staticman-comments form br {
-  display: none;
-}
-.staticman-comments label, .staticman-comments input, .staticman-comments button, .staticman-comments textarea {
-  vertical-align: baseline;
-  vertical-align: middle;
-}
-.staticman-comments input, .staticman-comments button, .staticman-comments textarea {
-  box-sizing: border-box;
-}
+
 .staticman-comments label {
   display: block;
-  margin-bottom: 0.25em;
-  color: #494e52;
-  cursor: pointer;
-}
-.staticman-comments label small {
-  font-size: 0.75em;
-}
-.staticman-comments label input, .staticman-comments label textarea {
-  display: block;
-}
-.staticman-comments input, .staticman-comments textarea {
-  display: inline-block;
-  width: 100%;
-  padding: 0.25em;
   margin-bottom: 0.5em;
-  color: #494e52;
-  background-color: #fff;
-  border: #f2f3f3;
-  border-radius: 4px;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125);
+  color: #333; /* Color más oscuro para el texto de las etiquetas */
+  font-weight: bold; /* Texto en negrita para las etiquetas */
 }
-.staticman-comments .input-mini {
-  width: 60px;
-}
-.staticman-comments .input-small {
-  width: 90px;
-}
-.staticman-comments input[type="button"], .staticman-comments input[type="reset"], .staticman-comments input[type="submit"] {
-  width: auto;
-  height: auto;
-  cursor: pointer;
-  overflow: visible;
-}
+
+.staticman-comments input, 
 .staticman-comments textarea {
-  resize: vertical;
-  height: auto;
-  overflow: auto;
-  vertical-align: top;
+  width: 100%;
+  padding: 0.75em; /* Aumentado el padding para mayor comodidad */
+  margin-bottom: 1em; /* Aumentado el margen para más espacio */
+  color: #333;
+  background-color: #f9f9f9; /* Color de fondo suave */
+  border: 1px solid #ccc; /* Borde más visible */
+  border-radius: 4px; /* Bordes redondeados */
+  transition: border-color 0.3s, box-shadow 0.3s; /* Transiciones suaves */
 }
-.staticman-comments input[type="hidden"] {
-  display: none;
+
+.staticman-comments input:focus, 
+.staticman-comments textarea:focus {
+  border-color: #007bff; /* Color del borde en enfoque */
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Sombra de enfoque */
+  outline: none; /* Eliminar el contorno predeterminado */
 }
-.staticman-comments .form {
-  position: relative;
+
+.staticman-comments input[type="submit"] {
+  background-color: #007bff; /* Color de fondo del botón */
+  color: #fff; /* Color del texto del botón */
+  border: none; /* Sin borde para botones */
+  padding: 0.75em 1.5em; /* Espaciado dentro del botón */
+  border-radius: 4px; /* Bordes redondeados */
+  cursor: pointer; /* Cambiar cursor a puntero */
+  transition: background-color 0.3s; /* Transición suave */
 }
+
+.staticman-comments input[type="submit"]:hover {
+  background-color: #0056b3; /* Color al pasar el ratón */
+}
+
+.staticman-comments .form-text {
+  color: #666; /* Color más claro para texto de ayuda */
+  font-size: 0.85em; /* Tamaño de fuente más pequeño */
+}
+
+/* Estilo para mensajes de error o validación */
+.staticman-comments .error-message {
+  color: #d9534f; /* Color rojo para mensajes de error */
+  margin-top: -0.5em;
+  margin-bottom: 1em;
+  font-size: 0.85em; /* Tamaño de fuente más pequeño */
+}
+
+.staticman-comments .success-message {
+  color: #5cb85c; /* Color verde para mensajes de éxito */
+  margin-top: -0.5em;
+  margin-bottom: 1em;
+  font-size: 0.85em; /* Tamaño de fuente más pequeño */
+}
+
 /*
  Focus & active state
  ========================================================================== */
