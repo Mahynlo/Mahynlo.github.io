@@ -2,12 +2,20 @@
 Forms
 ========================================================================== */
 .staticman-comments form {
-  margin: 1.5em 0;
+  margin: 1.5em auto; /* Centrar verticalmente y horizontalmente */
   padding: 2em;
   background-color: #ffffff; /* Cambiado a blanco para mayor contraste */
   border: 1px solid #e0e0e0; /* Añadido borde para definir el área del formulario */
   border-radius: 8px; /* Bordes redondeados */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil para profundidad */
+  max-width: 600px; /* Limitar el ancho del formulario */
+}
+
+.staticman-comments .form-container {
+  display: flex; /* Usar flexbox */
+  justify-content: center; /* Centrar horizontalmente */
+  align-items: center; /* Centrar verticalmente */
+  height: 100%; /* Asegúrate de que el contenedor tenga una altura definida */
 }
 
 .staticman-comments form p {
