@@ -20,9 +20,9 @@ author: Malcom Navarro
 ###############################################
 
 navbar-links:
-  Proyectos: "projects"
-  Hcerca de mi: "aboutme"
-  Contacto: "contacto"
+  Projects: "projects"
+  About me: "aboutme"
+  #Contacto: "contacto"
 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
