@@ -14,15 +14,4 @@ Soy una persona curiosa, con un gran sentido del humor, y me encanta conectar co
 Hay mucho más de mí, pero prefiero dejar un poco de misterio... ¡Quizá lo descubras en el camino!
 
 
-## Habilidades Técnicas
-
-<section class="skills">
-    <ul>
-      <li>**Desarrollo Web**: HTML, CSS, JavaScript</li>
-      <li>**Frameworks JavaScript**: React, Node.js</li>
-      <li>**Lenguajes**: Python,C,C++,Java</li>
-      <li>**Gestión de Bases de Datos**: MySQL, PostgreSQL</li>
-      <li>**Control de Versiones**: Git,Github</li>
-    </ul>
-</section>
 
