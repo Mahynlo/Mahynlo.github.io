@@ -1,32 +1,39 @@
 ---
 layout: page
 title: Mis Proyectos
-subtitle: Mis proyectos
+subtitle: Malcom Hiram Navarro López
 ---
 
-### Proyectos Destacados
+## Proyectos Destacados
 
-#### 1. [Torres de Hanoi](https://github.com/Mahynlo/Torres-De-Hanoi)
-- **Descripción**: Juego de las Torres de Hanoi
-- **Tecnologías**: C, C++.
-- **Enlace**: [GitHub](https://github.com/Mahynlo/Torres-De-Hanoi)
+<div class="project-card">
+  <h3><a href="https://github.com/Mahynlo/Torres-De-Hanoi">Torres de Hanoi</a></h3>
+  <p><strong>Descripción:</strong> Juego que implementa el clásico reto de las Torres de Hanoi.</p>
+  <p><strong>Tecnologías:</strong> C, C++.</p>
+  <p><a href="https://github.com/Mahynlo/Torres-De-Hanoi" class="btn">Ver en GitHub</a></p>
+</div>
 
-#### 2. [Proyecto Bases de Datos](https://github.com/Mahynlo/proyectoBDD)
-- **Descripción**: Herramienta de apoyo a la gestión de artículos dentro de los procesos de revisión sistemática de literatura
-- **Tecnologías**: JavaScript,HTML y css.
-- **Enlace**: [GitHub](https://github.com/Mahynlo/proyectoBDD)
+<div class="project-card">
+  <h3><a href="https://github.com/Mahynlo/proyectoBDD">Proyecto Bases de Datos</a></h3>
+  <p><strong>Descripción:</strong> Herramienta para la gestión de artículos en procesos de revisión sistemática de literatura.</p>
+  <p><strong>Tecnologías:</strong> JavaScript, HTML, CSS.</p>
+  <p><a href="https://github.com/Mahynlo/proyectoBDD" class="btn">Ver en GitHub</a></p>
+</div>
 
-#### 3. [Princiales Temas de Interes Nacional](https://github.com/Mahynlo/principales_temas_de_interes_nacional)
-- **Descripción**: Proyecto final de la clase de PLN, se usa 'Topic modeling' sobre las noticias nacionales para obtener los temas de interes Nacional.
-- **Tecnologías**: Jupyter Notebook,python.
-- **Enlace**: [GitHub](https://github.com/Mahynlo/principales_temas_de_interes_nacional)
+<div class="project-card">
+  <h3><a href="https://github.com/Mahynlo/principales_temas_de_interes_nacional">Principales Temas de Interés Nacional</a></h3>
+  <p><strong>Descripción:</strong> Proyecto final de PLN que utiliza 'Topic modeling' para identificar temas relevantes en noticias nacionales.</p>
+  <p><strong>Tecnologías:</strong> Jupyter Notebook, Python.</p>
+  <p><a href="https://github.com/Mahynlo/principales_temas_de_interes_nacional" class="btn">Ver en GitHub</a></p>
+</div>
 
-### Más Proyectos
+## Más Proyectos
 
-- [Amlobot_2000](https://github.com/Mahynlo/Amlobot_2000)
-- [Formulario](https://github.com/Mahynlo/Formulario)
+- [Amlobot_2000](https://github.com/Mahynlo/Amlobot_2000): Chatbot orientado a temas nacionales.
+- [Formulario](https://github.com/Mahynlo/Formulario): Ejemplo de formulario con validación en tiempo real.
 
-### Contáctame
+## Contáctame
 
-Si te interesa colaborar o conocer más sobre alguno de mis proyectos, ¡no dudes en contactarme!
+Si te interesa colaborar o conocer más sobre alguno de mis proyectos, ¡no dudes en [contactarme](#)!
+
 
