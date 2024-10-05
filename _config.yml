@@ -20,8 +20,8 @@ author: Malcom Navarro
 ###############################################
 
 navbar-links:
-  Projects: "projects"
-  About me: "aboutme"
+  Proyectos: "projects"
+  Sobre mi: "aboutme"
   #Contacto: "contacto"
 
   #Resources:
